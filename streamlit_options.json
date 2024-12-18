@@ -1,0 +1,122 @@
+{
+  "radius_mean": [
+    6.981,
+    29
+  ],
+  "texture_mean": [
+    9.71,
+    40
+  ],
+  "perimeter_mean": [
+    43.79,
+    189
+  ],
+  "area_mean": [
+    143.5,
+    2501
+  ],
+  "smoothness_mean": [
+    0.05263,
+    1
+  ],
+  "compactness_mean": [
+    0.01938,
+    1
+  ],
+  "concavity_mean": [
+    0.0,
+    1
+  ],
+  "concave_points_mean": [
+    0.0,
+    1
+  ],
+  "symmetry_mean": [
+    0.1203,
+    1
+  ],
+  "fractal_dimension_mean": [
+    0.04996,
+    1
+  ],
+  "radius_se": [
+    0.1115,
+    3
+  ],
+  "texture_se": [
+    0.3621,
+    5
+  ],
+  "perimeter_se": [
+    0.757,
+    22
+  ],
+  "area_se": [
+    6.802,
+    543
+  ],
+  "smoothness_se": [
+    0.001713,
+    1
+  ],
+  "compactness_se": [
+    0.002252,
+    1
+  ],
+  "concavity_se": [
+    0.0,
+    1
+  ],
+  "concave_points_se": [
+    0.0,
+    1
+  ],
+  "symmetry_se": [
+    0.007882,
+    1
+  ],
+  "fractal_dimension_se": [
+    0.0009502,
+    1
+  ],
+  "radius_worst": [
+    7.93,
+    37
+  ],
+  "texture_worst": [
+    12.02,
+    50
+  ],
+  "perimeter_worst": [
+    50.41,
+    252
+  ],
+  "area_worst": [
+    185.2,
+    4254
+  ],
+  "smoothness_worst": [
+    0.07117,
+    1
+  ],
+  "compactness_worst": [
+    0.02729,
+    2
+  ],
+  "concavity_worst": [
+    0.0,
+    2
+  ],
+  "concave_points_worst": [
+    0.0,
+    1
+  ],
+  "symmetry_worst": [
+    0.1565,
+    1
+  ],
+  "fractal_dimension_worst": [
+    0.05504,
+    1
+  ]
+}
